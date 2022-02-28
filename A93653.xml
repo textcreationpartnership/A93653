@@ -1,0 +1,216 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Utercht [sic], to the Assembly of Divines at Westminster: shewing the conversion of church-lands to lay-uses, to be condemned by Luther, Calvin, Knox, and the whole assemblies of Scotch divines, as a detestable sacriledge before God, and provoking his heavy judgements. Sent in a letter to Doctor Burges in Iune last, to be presented. A copy whereof comming accidentally to the hands of W.B. was by him commended to the presse.</title>
+            <author>Spelman, Clement, 1598-1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93653</idno>
+            <idno type="STC">Wing S4915</idno>
+            <idno type="STC">Thomason E436_11</idno>
+            <idno type="STC">ESTC R203616</idno>
+            <idno type="EEBO-CITATION">99863512</idno>
+            <idno type="PROQUEST">99863512</idno>
+            <idno type="VID">161611</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93653)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161611)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 69:E436[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Utercht [sic], to the Assembly of Divines at Westminster: shewing the conversion of church-lands to lay-uses, to be condemned by Luther, Calvin, Knox, and the whole assemblies of Scotch divines, as a detestable sacriledge before God, and provoking his heavy judgements. Sent in a letter to Doctor Burges in Iune last, to be presented. A copy whereof comming accidentally to the hands of W.B. was by him commended to the presse.</title>
+                  <author>Spelman, Clement, 1598-1679.</author>
+                  <author>Burgess, Anthony, d. 1664.</author>
+                  <author>W. B.</author>
+                  <author>Westminster Assembly (1643-1652)</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Clem: Spelman.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aprill 20th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Westminster Assembly (1643-1652) --  Early works to 1800.</term>
+               <term>Church lands --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161611:1" rendition="simple:additions"/>
+            <p>A LETTER FROM UTERCHT, TO THE ASSEMBLY of DIVINES AT <hi>WESTMINSTER:</hi> SHEWING The converſion of Church-Lands to Lay-uſes, to be condemned by <hi>Luther, Calvin, Knox,</hi> and the whole Aſſemblies of Scotch Divines, as a deteſtable Sacriledge before God, and provoking his heavy judgements.</p>
+            <p>Sent in a Letter to Doctor <hi>BURGES</hi> in <hi>Iune</hi> laſt, to be preſented.</p>
+            <p>A Copy whereof comming accidentally to the hands of <hi>W. B.</hi> was by him commended to the Preſſe.</p>
+            <q>
+               <bibl>MAT. 10.26.</bibl>
+               <p>There is nothing covered that ſhall not be revealed: nor hid, that ſhall not be knowne.</p>
+            </q>
+            <p>Printed in the yeare, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161611:2"/>
+            <pb n="1" facs="tcp:161611:2"/>
+            <head>A LETTER FROM VTERCHT TO THE ASSEMBLY of <hi>DIVINES</hi> AT <hi>WESTMINSTER.</hi>
+            </head>
+            <p>THe filiall duty we owe our natural parents, excuſes, nay commands all our endeavours for their preſervation; and 'twere ſin to think my ſelf (though but a Lay-man) leſſe indebted to our Spirituall Mother the Church. Therefore I ſhall not need to apologize for this my addreſſe to you in the behalfe of her to whom your ſelves are more obliged: For beſides our equall adoption as Chriſtians, your ſelves are tyed in your particular as Eccleſiaſtiques, naturalized in her womb, nurſt with the milke from her owne breaſt, fed with the ſhew<g ref="char:EOLhyphen"/>bread from her Altar. Next, as perſons appointed by the two Houſes of this preſent Parliament to conſult her wel-fare, guard her indempnity: But chiefly as Shepherds and Watch<g ref="char:EOLhyphen"/>men appointed by God over his flock, and good Shepherds do not onely keep the ſheep, but their fold ſafe and intire, as their beſt outward preſervative. For if the wolfe enters while ye ſleep, are ye innocent? if while ye look on, are ye excuſable?
+<pb n="2" facs="tcp:161611:3"/>But if ye open the doore to him, let your conſciences rather then my pen tell ye your guilt. See therefore that while ye aboliſh Epiſcopacie, ye doe not open wide the doore to rave<g ref="char:EOLhyphen"/>nous Sacriledge, that ſhall at once devoure the patrimony of Chriſt and his Church; for can ye expect Labourers in the Vineyard, when ye ſuffer not the Lord to have wherewith to pay the peny?<note place="margin">
+                  <gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. Mat. 27. <gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. Iohn 19.</note> Remember that the Roman Soldiers (though Heathens) deveſt Chriſt, onely while they ſcourge him, and then reſtore his depoſited garments, and he weares them till crucified; nor then doth any ſhare them, but ſuch as were active in his death, and of them the meaneſt ſoldier. None <hi>ſeize the Vineyard,</hi>
+               <note place="margin">
+                  <gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. Mat. 27.35. <gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. Iohn 19.23.</note> but thoſe that murdred the heire, <hi>wicked husbandmen;</hi> and will ye look on, nay I feare with <hi>Saul,</hi> keep their clothes while they divide the garment,<note place="margin">
+                  <gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. Mat. 21.35.</note> ſhare the Vine<g ref="char:EOLhyphen"/>yard, ſell the Church-lands before Epiſcopacy be aboliſhed? for God be thanked it is not yet, and I hope the King will ſee it never ſhall be enacted.</p>
+            <p>Are not ye <hi>Sons of Zadock,</hi>
+               <note place="margin">Ezek. 44.15, 23</note> 
+               <hi>Prieſts that ſhould teach the people the difference betweene holy and profane things?</hi> and are ye ſilent in this matter? Shall I re-act <hi>Phormie,</hi> and tell ye this is Sa<g ref="char:EOLhyphen"/>criledge, and ye ought prevent it? But perhaps ſome of you may doubt, therefore though I will not urge ye with the opi<g ref="char:EOLhyphen"/>nion of Fathers, leſt ſome ſtyle them Papiſt; nor the reſult of Councels, leſt ſome terme them Popiſh; yet let me remember and preſſe ye with the opinion of the Angels of thoſe (ye hold the beſt) Reformed Proteſtant Churches; and according to whoſe patterne ye have covenanted to reforme ours, as the Geneva, German, and Scotch Churches.</p>
+            <p>
+               <hi>'Tis ſaid to be Sacriledge</hi> (ſaith <hi>Calvin</hi>) <hi>to convert Eccleſiaſti<g ref="char:EOLhyphen"/>call Revenues to other uſes,</hi>
+               <note place="margin">Calv. de ne<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſ. Eccleſ. reform. fo. 66, 67. Edit. 1619.</note> 
+               <hi>&amp; I agreeing it. If I ſhould ſay we have not ſinned in this kind, I ſhould lye, they accuſe our Princes to have taken and miſ-imployed to profane uſes the patrimony of Chriſt and his Church, I excuſe it not. That the Churches Re<g ref="char:EOLhyphen"/>venues
+<pb n="3" facs="tcp:161611:3"/>are not imployed to the uſes to which they were dedicated, I confeſſe diſpleaſeth me, and with me all good men will grieve that our Princes take to their uſe what was taken from the Friers and Prieſts, and I confeſſe a heavy judgement is pronounced againſt them that ſpoile the Church.</hi> To <hi>Farrell</hi> he writes thus,<note place="margin">Cal. Epiſt. 66.</note> 
+               <hi>In the Senate often, in the Pulpit without ceſſation, I tell them what</hi> hea<g ref="char:EOLhyphen"/>vy judgements <hi>hang over them for this Sacriledge: Nor think I while I prevaile not, that I have d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſcharged my duty.</hi> And to <hi>Viretus</hi> thus,<note place="margin">Epiſt. 108.</note> 
+               <hi>Papam fuiſſe furem &amp; ſacrilegum videndum</hi> (ſaith he) <hi>ne ſimus ſucceſſores.</hi> As if to aboliſh Papall authority and Liturgy, and yet miſ-imploy the Church-patrimony, were no Reformation, but a continuance of theft and ſacriledge. And he concludes, that <hi>With Balac in vaine we ſeek a Balaam to bleſſe us, while we continue in this curſed eſtate.</hi> Thus <hi>Calvin.</hi>
+            </p>
+            <p>
+               <hi>Luther</hi> ſaith, <hi>The Devil hath two waies to ſpoil Chriſts Church,</hi>
+               <note place="margin">Luth. in Gal. cap. 6. ver. 6. fo. 433.</note> 
+               <hi>Hereſie and Poverty. To effect which, he ſtirs up the wicked Ma<g ref="char:EOLhyphen"/>giſtrate in the City, and the ungodly Nobility and Gentry in the Country, to take and convert to their owne profane uſe the Church<g ref="char:EOLhyphen"/>revenue: For then</hi> (ſaith he) <hi>men will neglect the Miniſtery, for ye had rather your children embraced wealthy trades, then beg<g ref="char:EOLhyphen"/>gerly Divinity.</hi> And he ſaith, <hi>For the ſinne of Sacriledge were the Churches of Galatia and Corinth</hi> (as he beleeved) <hi>ſo infeſted</hi> (as ours) <hi>with many falſe teachers.</hi>
+            </p>
+            <p>
+               <hi>Knox</hi> and the whole Scotch Clergie ſolicite the Lords Re<g ref="char:EOLhyphen"/>gents of <hi>Scotland,</hi> and with <hi>we dare not flatter your Honours,</hi>
+               <note place="margin">Firſt Book of Diſcipline, fo. 51. <hi>Lond.</hi> 1641.</note> preſſe them with reaſons to reſtore the Lands of Chantries, and Friers, &amp;c. to the Church. <hi>Knox</hi> on his death-bed writing to the Generall Aſſembly of Divines at <hi>Sterling,</hi> having advi<g ref="char:EOLhyphen"/>ſed them <hi>not to ſuffer unworthy men to be thruſt into the Mini<g ref="char:EOLhyphen"/>ſtry, which</hi> (ſaith he) <hi>will be a hard battle,</hi>
+               <note place="margin">Declar. of the Church of <hi>Scotl.</hi> fo. 7.8. <hi>Lond.</hi> 1642.</note> 
+               <hi>yet the ſecond part will be harder, that ye withſtand the mercileſſe devourers of the Church patrimony. If men will ſpoile,</hi> (ſaith he) <hi>let them doe it at their owne perill and condemnation, but communicate not ye
+<pb n="4" facs="tcp:161611:4"/>with their ſins, neither by conſent nor ſilence: But with publike proteſtation make knowne to the world, ye are innocent of ſuch robberies, which WILL</hi> ere long provoke Gods vengeance.</p>
+            <p>The Nationall Aſſembly of Divines at <hi>Edenburgh</hi> demands of the Queene <hi>the Lands rf Hoſpitals,</hi>
+               <note place="margin">
+                  <hi>Knox</hi> Hiſt. of the Reformat. of Relig. in <hi>Scotl.</hi> fol. 410. <hi>Lond.</hi> 1644.</note> 
+               <hi>Fryeries, &amp;c. with all rems, annuities, alterages, obites, and other duties belonging to the Prieſts, to be imployed to pious uſes. Knox</hi> in his Hiſtory of Reformation of Religon calls the Nobility <hi>The unjuſt poſſeſſors of the Church patrimony.</hi>
+               <note place="margin">Ibid. fo. 252.</note>
+            </p>
+            <p>The Aſſembly at <hi>Edenburgh,</hi>
+               <note place="margin">Declar. of the Church of <hi>Scocl.</hi> fol. 10.</note> 1576. declares the patrimony of the Church to be <hi>Jure Divine:</hi> And what is ſaid to be the patrimony of the Church, the ſecond Book of the Diſcipline of the Church tells you in theſe words, <hi>Under the patrimony of the Church, we comprehend all things given to the Church, as Lands,</hi>
+               <note n="*" place="margin">Houſes.</note> 
+               <hi>Biggens, poſſeſsions, Rents, &amp;c.</hi>
+            </p>
+            <p>At <hi>Glaſcow</hi> they declare,<note place="margin">Ibid. fo. 13.</note> That <hi>to convert the Church patrimo<g ref="char:EOLhyphen"/>ny to the particular and profane uſe of any man,</hi> is a deteſtable Sacriledge <hi>before God:</hi> and by that Aſſembly all Miniſters are directed <hi>to preach againſt that Sacriledge:</hi>
+               <note place="margin">Ibid. fo. 21.</note> But nothing prevai<g ref="char:EOLhyphen"/>ling with men for reſtitution by faſting and prayer comman<g ref="char:EOLhyphen"/>ded by the Aſſembly at Saint <hi>Andrews</hi> 1582.<note place="margin">Ibid. fo. 15.</note> they condole the miſ-imployment of Church-rents.</p>
+            <p>Did theſe, the brighteſt Lamps of thoſe ye call the beſt Re<g ref="char:EOLhyphen"/>formed Proteſtant Churches, and whole Aſſemblies of Di<g ref="char:EOLhyphen"/>vines in <hi>Scotland,</hi> labour for a reſtitution of Church-lands, though given as ours) by Papiſts (as ours) to Popiſh Prieſts &amp; Fryers, but not imployed as ours now, for ſupport of Prote<g ref="char:EOLhyphen"/>ſtant Divines? did they yet acknowledge a heavy judgement threatned againſt the ſpoilers of the Church Patrimony? Did they write, preach, faſt and pray againſt this Sacriledge, leſt they ſhould endanger their owne and others ſoules? and can ye, as careleſſe of both, with ſafety to neither, ſit ſilent, not preach, not write, not faſt, not pray, not ſpeak againſt a more horrid Sacriledge?</p>
+            <pb n="5" facs="tcp:161611:4"/>
+            <p>Can ye ſee the godly <hi>Onias</hi> and all the Prieſts proſtrate be<g ref="char:EOLhyphen"/>fore the Altar,<note place="margin">2 M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c. 3.15.</note> weeping and praying to prevent one ſingle Sa<g ref="char:EOLhyphen"/>criledge, but a <hi>hac vice-tantum-Sacriledge,</hi> onely the Plunder of a little money out of the Temple-Treaſury; and wil not ye, not one of ye weep, nor write, nor ſpeak one word to prevent the ruine of a whole Church, and conſequently Nation? As many Sacriledges as ye and your children ſhall number dayes, and perſons miſ-imploying Church-Revenues. Will no exam<g ref="char:EOLhyphen"/>ple neither of Jew nor Gentile, Papiſt nor Proteſtant, and of theſe, the beſt of thoſe you tearme the beſt Reformed Prote<g ref="char:EOLhyphen"/>ſtant Churches? will none move ye? Though neither they, nor the very many and heavy worldly judgements in our own Nation, upon the families and eſtates of our owne Nobility, our owne Gentry, and Commonalty ſtir ye not; yet let the view and contemplation of one ſpirituall judgement, yet onely (God ſo ſtint it) upon a forraigne Nation. Let that awake and fright ye.</p>
+            <p>See the now darkned <hi>Palatinate,</hi> which flouriſhing, ſeized all the Churches Patrimony, ſetting that firſt bad copy of Sacriledge, which unhappy <hi>Germany</hi> and miſerable We un<g ref="char:EOLhyphen"/>luckily followed. See there how after the Sword had (as with us) long raged, depopulating (as with us) the Country, de<g ref="char:EOLhyphen"/>ſtroying (as with us) all eſtates, both ſexes, all ages, and then to adde miſery to their affliction, their candleſtick (may the Parallel never hold) their candleſtick is removed, the moſt glorious Proteſtant Religion ſupreſt, and Popery, (which ye ſeeme ſo to feare) re-planted, as if God were leſſe offended with the <hi>ſuperſtitious</hi> vanities of Papiſts, then the contemptu<g ref="char:EOLhyphen"/>ous Sacriledge of Proteſtants.</p>
+            <p>This weighed, if ye will be <hi>Ezekiels</hi> Watchmen,<note place="margin">Ezek. 33.6.</note> 
+               <hi>See the Sword comming, and not blow the trumpet, that men may be war<g ref="char:EOLhyphen"/>ned: if any man die in this iniquity, ſhall not his bloud be requi<g ref="char:EOLhyphen"/>red at your hands?</hi> But on the other ſide,<note place="margin">Ioſhuah 6.</note> if with <hi>Joſhuah</hi>'s
+<pb n="6" facs="tcp:161611:5"/>Prieſts (which I hope and pray for) <hi>ye blow the trumpet ſeven dayes,</hi>
+               <note place="margin">Deut. 28.</note> 
+               <hi>and then ſeven times, even till ye levell the walls of this Jericho with the ground.</hi> May ye be <hi>bleſt in the City, and in the field, bleſt in the fruit of your body, and the increaſe of your cattle, bleſt when ye come in, and bleſt when ye goe out.</hi> May all the bleſſings in the Old Teſtament be doubled upon ye, and all of the New crowne ye, that ye may bleſſe our Iſrael, and in them, him that prayes for it,</p>
+            <closer>
+               <dateline>Utercht, <date>4. June, 1647. Stil. Angl.</date>
+               </dateline>
+               <signed>CLEM: SPELMAN.</signed>
+            </closer>
+            <epigraph>
+               <bibl>IOEL 1.9, 10, 11.</bibl>
+               <q>The meat offering and the drink offering is cut off from the houſe of the Lord, the Prieſts, the <hi>Lords Miniſters</hi> mourne. The field is waſted, the Land mourneth; <hi>Be ye aſhamed, O ye husbandmen.</hi>
+               </q>
+            </epigraph>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
